@@ -366,6 +366,7 @@
         "letterSpacing": "0"
       },
       "body": {
+        "padding": "20px",
         "fontFamily": "Fabriga, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif",
         "fontWeight": "normal",
         "fontSize": "1rem",
