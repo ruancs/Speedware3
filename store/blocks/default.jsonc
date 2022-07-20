@@ -8,7 +8,7 @@
     "parent": {
       "challenge": "challenge.profile"
     }
-  },
+  }, 
 
   "store.login": {
     "blocks": ["login-content#default"]
